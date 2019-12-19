@@ -1,0 +1,54 @@
+{
+    "name": "National Aeronautics and Space Administration",
+    "description": "<p>The National Aeronautics and Space Administration (NASA) is the United States government agency that is responsible for the civilian space program as well as for aeronautics and aerospace research. President Dwight D. Eisenhower established the National Aeronautics and Space Administration (NASA) in 1958[5] with a distinctly civilian (rather than military) orientation encouraging peaceful applications in space science. The National Aeronautics and Space Act was passed on July 29, 1958, disestablishing NASA's predecessor, the National Advisory Committee for Aeronautics (NACA).<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/NASA_logo.svg.png",
+    "tags": [
+        "api provider",
+        "data provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/national-aeronautics-and-space-administration\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "National Aeronautics and Space Administration",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/NASA_logo.svg.png",
+            "humanURL": "http:\/\/nasa.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/national-aeronautics-and-space-administration-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/api.nasa.gov\/index.html"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/nasa"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/nasa"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/nasa.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/National_Aeronautics_and_Space_Administration"
+        }
+    ]
+}
